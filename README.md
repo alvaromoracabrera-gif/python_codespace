@@ -1,2 +1,2 @@
-# python_codespace
-alvaro mora cabrera
+# Álvaro Mora Cabrera
+Battery of exercises on python
